@@ -48,7 +48,7 @@ This is stuff that is done before installation but not after
 - Battery life worse
 - No airdrop + limited continuity features
 
-** Stuff to do after install [aka, just follow post-install]_**
+**_Stuff to do after install [aka, just follow post-install]_**
 
 * Check GPU specific boot arguments
 * Airdrop
