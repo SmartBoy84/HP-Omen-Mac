@@ -17,8 +17,7 @@
 8. Alcid = 245
 
 **_Keyboard + mouse_**
-_https://github.com/VoodooSMBus/VoodooRMI__
-_
+_https://github.com/VoodooSMBus/VoodooRMI_ 
 _https://chefkissinc.github.io/guide/gathering-files/kexts_
 
 - VoodooRMI (following kexts are dependencies of this, look at its GitHub page)
